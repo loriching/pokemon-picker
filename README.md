@@ -43,7 +43,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app: I capitalized the Pokémon types, so that interfered with checking if the types were in the banlist at first because I could be checking if the electric type was in the banlist and it didn't correctly register if Electric was in the banlist.
 
 ## License
 
